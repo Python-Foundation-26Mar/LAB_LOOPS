@@ -1,0 +1,11 @@
+from_to = range(45, 210) 
+
+for element in from_to:
+     print("the element is: ", element)
+     if element ==  100  :
+             continue
+
+    
+     if element ==  205  :
+            break
+
